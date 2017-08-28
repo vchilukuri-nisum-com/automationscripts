@@ -1,0 +1,2 @@
+# automationscripts
+Validating omnitest framework
